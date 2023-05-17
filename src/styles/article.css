@@ -1,0 +1,9 @@
+.photo-list{
+    text-align: center;
+}
+img {
+    width: 18%;
+    margin: 4%;
+    box-sizing: border-box;
+    
+}
